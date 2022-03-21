@@ -29,7 +29,7 @@ this is a Todo list application created with laravel but the main porpose with t
 GraphQL is a query language designed to build client applications by providing
 an intuitive and flexible syntax and system for describing their data
 For example, this GraphQL request will receive all the tasks 
-<img src="https://www.photobox.co.uk/my/photo/full?photo_id=504599289899">
+![alt text](https://www.photobox.co.uk/my/photo/full?photo_id=504599289899)
 
 ## Learning Laravel
 
