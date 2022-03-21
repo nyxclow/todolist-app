@@ -21,6 +21,16 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## About the Application 
+this is a Todo list application created with laravel but the main porpose with this project is to know how to deal with graphql
+
+## Overview
+
+GraphQL is a query language designed to build client applications by providing
+an intuitive and flexible syntax and system for describing their data
+For example, this GraphQL request will receive all the tasks 
+<img src="https://www.photobox.co.uk/my/photo/full?photo_id=504599289899">
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
